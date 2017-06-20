@@ -3,6 +3,7 @@
 This is a program that solves the 8 Puzzle problem using the Manhattan heurtistic and the Misplaced Tile Heuristic. The program allows you to enter a puzzle manually, use one of the files provided that have 200 test cases at different levels, or a puzzle is randomly created to solve. 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 Enter a choice
 1) Randomly create puzzles
 2) Enter a puzzle manually
@@ -10,6 +11,7 @@ Enter a choice
 4) Exit the program
 
 Your choice: 
+
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Enter a 1, 2, 3, or 4 to do any of the commands (nothing other than the number. ex: 3)
